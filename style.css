@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+    text-align: center;
+    padding: 60px 0;
+}
+span{
+    font-size: 32px;
+    line-height: 33px;
+    font-family: georgia;
+    color: rgb(0,0,0);
+    font-weight: 700;
+
+}
+strong{
+    display: block;
+    font-family: georgia;
+    font-size: 15px;
+    color: rgb(0,0,0);
+    font-weight: 400;
+    line-height: 33px;
+}
+#wiki-logo{
+    position: absolute;
+    top: 200px;
+    left: 580px;
+}
+a{
+    text-decoration: none;
+    color: #3366cc;
+    font-size: 16px;
+    font-family: Segoe UI;
+    display: block;
+    text-align: center;
+    position: absolute;
+}
+a:hover{
+    text-decoration: underline;
+    text
+
+}
+a span{
+    font-size: 13px;
+    font-family: Segoe UI;
+    font-weight: 400;
+    display: block;
+    text-decoration: ;
+}
+#a1{
+    top: 140px;
+    left: 490px;  
+}
+#a2{
+    top: 140px;
+    left: 750px;  
+}
+#a3{
+    top: 205px;
+    left: 440px;
+}
+#a4{
+    top: 205px;
+    left: 825px;
+}
+#a5{
+    top: 270px;
+    left: 420px;
+}
+#a6{
+    top: 270px;
+    left: 830px;
+}
+#a7{
+    top: 340px;
+    left: 440px;
+}
+#a8{
+    top: 340px;
+    left: 825px;
+}
+#a9{
+    top: 410px;
+    left: 490px;
+}
+#a10{
+    top: 410px;
+    left: 785px;
+}
+.search-box{
+    position: absolute;
+    top: 480px;
+    left: 440px;
+    /* background-color: #3366cc;
+    width: 200px;
+    height: 200px; */
+}
+input{
+    width: 455px;
+    padding: 12px;
+}
+#input{
+    position: absolute;
+    left: 330px;
+    top: 15px;
+    border: #3366cc;
+    cursor: pointer;
+    width: 50px;
+}
+button{
+    border: none;
+    cursor: pointer;
+    background-size: cover;
+    background-color: #0642bb;
+    /* margin-top: 20px; */
+    position: relative;
+    top: 6px;
+    width: 53px;
+    padding: 7px;
+    right: 58px;
+}
+button img{
+    width: 25px;
+}
+.Language{
+    position: absolute;
+    top: 560px;
+    left: 500px;
+    /* padding: 15px; */
+}
+#Languages{
+    padding: 10px;
+    width: 300px;
+    /* border: none; */
+    /* border-left: 2px groove black; */
+    /* border-left-style: dashed;/ */
+    /* margin-left: 10px; */
+    color: #0642bb;
+    text-align: center;
+}
